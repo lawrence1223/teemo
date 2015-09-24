@@ -1,0 +1,26 @@
+{
+  "name": "teemo",
+  "version": "0.0.1",
+  "description": "I will scout ahead!",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrence1223/teemo.git"
+  },
+  "keywords": [
+    "scout",
+    "teemo"
+  ],
+  "author": "Zhiming Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrence1223/teemo/issues"
+  },
+  "homepage": "https://github.com/lawrence1223/teemo#readme",
+  "devDependencies": {
+    "eslint": "^1.5.1"
+  }
+}
